@@ -1,2 +1,1 @@
-# brackets-disable-toolbar
-Removes the right hand toolbar
+Remove right hand toolbar in the Brackets code editor

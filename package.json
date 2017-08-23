@@ -1,0 +1,12 @@
+{
+    "name": "brackets-disable-toolbar",
+    "title": "Disable Toolbar",
+    "description": "Disables/hides the right hand toolbar.",
+    "homepage": "https://github.com/rade0/brackets-disable-toolbar/",
+    "version": "1.0.0",
+    "author": "Rade0 <rade0@users.noreply.github.com> (https://github.com/rade0/)",
+    "license": "gpl-3.0",
+    "engines": {
+        "brackets": ">=0.28.0"
+    }
+}
