@@ -2,11 +2,9 @@
 /*global define, $, brackets, window */
 
 define(function (require, exports, module) {
-    
     // Main
     "use strict";
-    
+
     $("#main-toolbar").css("display", "none");
     $(".main-view .content").css("right", "0px");
-
 });
